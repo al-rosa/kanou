@@ -1,0 +1,7 @@
+playwright==1.40.0
+fake-useragent==1.4.0
+python-dotenv==1.0.0
+pydantic==2.5.2
+requests==2.31.0
+colorlog==6.8.2
+
